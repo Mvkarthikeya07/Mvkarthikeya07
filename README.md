@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mv-karthikeya-b26a2131b" target="_blank">
+  <a href="https://www.linkedin.com/in/m-v-karthikeya-b26a2131b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&maxAge=2592000"/>
   </a>
 </p>
