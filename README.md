@@ -134,9 +134,9 @@ I am open to connecting with engineers, researchers, and labs for initiatives in
 
 # 📫 Connect With Me
 
-- **LinkedIn:** [M V Karthikeya](https://www.linkedin.com/in/mv-karthikeya-b26a2131b)
+- **LinkedIn:** [M V Karthikeya](https://www.linkedin.com/in/m-v-karthikeya-b26a2131b/)
 - **GitHub:** [Mvkarthikeya07](https://github.com/Mvkarthikeya07)
-- **Email:** [mv.karthikeya.dev@gmail.com](mailto:mv.karthikeya.dev@gmail.com)
+- **Email:** [mv.karthikeya2005@gmail.com](mailto:mv.karthikeya2005@gmail.com)
 
 ---
 
