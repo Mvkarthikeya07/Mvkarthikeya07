@@ -29,7 +29,7 @@ Computer Science and Engineering student specializing in Artificial Intelligence
 
 - 🏓 **National-Level Athlete:** Represented Andhra Pradesh in national-level table tennis competitions. Competitive sports instilled the high-level discipline, resilience, and rapid adaptability that govern my approach to software engineering and research.
 - 🔬 **System Developer:** Experienced in designing and deploying practical AI applications across Computer Vision, Forecasting, NLP, and Desktop Automation.
-- 🎯 **Research Focus:** Building reproducible AI systems while preparing for advanced graduate study in Computer Vision and Intelligent Systems.
+- 🎯 Research Focus: Building reproducible AI systems with a strong interest in Computer Vision, Intelligent Systems, and real-world AI deployment.
 
 ---
 
