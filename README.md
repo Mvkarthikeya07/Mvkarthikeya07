@@ -1,15 +1,15 @@
-<!-- Banner Element -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=00BFFF&height=200&section=header&text=M%20V%20Karthikeya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Banner" />
-</p>
+<!-- Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=M+V+Karthikeya" alt="M V Karthikeya" />
+</h1>
 
 <p align="center">
-  <strong>🚀 Computer Vision Engineer & AI Research Enthusiast</strong>
+  <strong>🚀 AI/ML Engineer & Computer Vision Researcher</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mv-karthikeya-b26a2131b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&maxAge=2592000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
