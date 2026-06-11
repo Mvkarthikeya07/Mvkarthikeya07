@@ -4,27 +4,6 @@
 </h1>
 
 <h3 align="center">
-🚀 Computer Vision Engineer • AI Research Enthusiast • Full-Stack Intelligent Systems Developer
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mv-karthikeya-b26a2131b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mvkarthikeya07&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-</p>
-
----
-
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=M+V+Karthikeya" alt="M V Karthikeya" />
-</h1>
-
-<h3 align="center">
 🚀 Computer Vision Engineer • AI Developer • Research-Oriented Builder
 </h3>
 
