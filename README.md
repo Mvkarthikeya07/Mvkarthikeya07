@@ -1,197 +1,88 @@
-<div align="center">
+<!-- Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=M+V+Karthikeya" alt="M V Karthikeya" />
+</h1>
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=M+V+Karthikeya;Python+%7C+AI+%7C+Computer+Vision;Building+Intelligent+Systems" alt="Typing SVG" />
+<p align="center">
+  <strong>🚀 AI/ML Engineer & Computer Vision Researcher</strong>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mv-karthikeya-b26a2131b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=8892B0&center=true&vCenter=true&width=600&lines=Real-time+vision+apps+%E2%80%A2+End-to-end+ML+systems+%E2%80%A2+25%2B+deployed+projects" alt="Subtitle" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mv-karthikeya-b26a2131b)
-[![GitHub followers](https://img.shields.io/github/followers/Mvkarthikeya07?style=flat-square&color=00D9FF&labelColor=0d1117)](https://github.com/Mvkarthikeya07)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mvkarthikeya07&style=flat-square&color=00D9FF)](https://github.com/Mvkarthikeya07)
-
-</div>
-
----
-
-## `> whoami`
-
-```python
-class MVKarthikeya:
-    role       = "Python Developer · AI & Computer Vision Engineer"
-    focus      = ["Real-time CV Systems", "ML Model Deployment", "Flask APIs"]
-    learning   = ["YOLOv8 Object Detection", "Deep Learning", "AWS/Render Deployment"]
-    goal       = "Build production-grade AI systems that solve real problems"
-    mantra     = "Ship fast. Learn deep. Build smart."
-```
-
-> I engineer real-time computer vision pipelines and end-to-end ML applications — from raw model training to live, deployed web apps. **25+ projects** across object detection, NLP, predictive ML, and database systems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mvkarthikeya07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
-## `> stack --verbose`
+## 🛠️ Executive Summary
 
-<table>
-<tr>
-<td valign="top" width="33%">
+I am a technical innovator specializing in **Computer Vision architectures, Predictive Modeling, and scalable AI/ML deployments**. My work focuses on bridging the gap between raw research and highly optimized, production-ready applications. Whether optimizing frame-rates for edge-deployed object detectors or building robust full-stack AI web systems, I write clean, modular, and performance-driven code.
 
-**Languages**
-```
-Python       ████████████  Expert
-HTML / CSS   ████████░░░░  Proficient
-SQL          ██████░░░░░░  Intermediate
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Frameworks & Libraries**
-```
-Flask        ████████████  Expert
-OpenCV       ████████████  Expert
-Scikit-learn ████████░░░░  Proficient
-NumPy/Pandas ████████████  Expert
-YOLOv8       ██████░░░░░░  Growing
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Toolchain**
-```
-Git / GitHub  ████████████
-Jupyter       ████████████
-VS Code       ████████████
-Render / AWS  ████░░░░░░░░
-SQLite        ████████░░░░
-```
-
-</td>
-</tr>
-</table>
+- 🔭 **Current Focus:** Architectural design of autonomous desktop AI assistants and edge-device deep learning optimization.
+- 🔬 **Research Interests:** Deep Learning applications in healthcare, high-performance real-time inference, and vector embeddings.
+- ⚡ **Fact:** Passionate about combining high-frequency operational logic with predictive analytics.
 
 ---
 
-## `> projects --featured`
+## 🧰 Technical Ecosystem
 
-<details open>
-<summary><b>⚡ YOLO-Style Webcam Detector</b> — Real-time Object Detection</summary>
-
-<br/>
-
-> Live object detection pipeline streamed through a Flask web interface using OpenCV. Custom lightweight detection workflow with zero-latency frame processing.
-
-![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-WebApp-000000?style=flat-square&logo=flask)
-![OpenCV](https://img.shields.io/badge/OpenCV-RealTime-5C3EE8?style=flat-square&logo=opencv)
-
-🔗 **[→ View Repository](https://github.com/Mvkarthikeya07/YOLO-Style-Webcam-Detector)**
-
-</details>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python (Advanced)` • `SQL (SQLite)` • `C++` • `HTML5/CSS3` |
+| **AI / Deep Learning** | `YOLOv8` • `PyTorch` • `Scikit-Learn` • `Computer Vision (OpenCV)` |
+| **Data Engineering** | `Pandas` • `NumPy` • `Data Processing Pipelines` • `Vector Similarity` |
+| **Backend & Deployment** | `Flask (Production-ready API Architecture)` • `WSGI` • `Render` • `AWS` |
+| **Developer Tools** | `Git/GitHub` • `VS Code` • `Jupyter Notebooks` • `Linux Environments` |
 
 ---
 
-<details open>
-<summary><b>🏠 Flask House Price Predictor</b> — End-to-End ML Web App</summary>
+## 🌟 Production-Grade & Featured Projects
 
-<br/>
+### 👁️ Real-Time YOLO-Style Webcam Detector
+*Custom optimized inference pipeline engineered for real-time edge processing.*
+- **Architecture:** Multi-threaded video streaming engine utilizing custom OpenCV matrix manipulation bound to a Flask server-sent event (SSE) architecture.
+- **Key Impact:** Significantly decreases latency overhead compared to naive implementations, showcasing production-ready handling of raw video buffers.
+- `Python` `OpenCV` `Flask` `Real-Time Inference`
+- 🔗 **Repository:** [View Source Code](https://github.com/Mvkarthikeya07/YOLO-Style-Webcam-Detector)
 
-> Full-stack ML application — trained regression model served via Flask REST API, with a clean frontend for real-time predictions. Demonstrates the complete ML productionization pipeline.
+### 🩺 CancerScan-AI (Advanced Diagnostic Web App)
+*Full-stack clinical-grade screening application utilizing standardized high-dimensional feature datasets.*
+- **Architecture:** Built on top of the Wisconsin Diagnostic Dataset; utilizes heavily tuned Scikit-Learn classifiers for binary classification. Wrapped within a resilient Flask backend API ensuring scalable input-feature validation.
+- **Key Impact:** High accuracy classification designed with analytical confidence transparency.
+- `Machine Learning` `Flask API` `Scikit-Learn` `Predictive Healthcare`
 
-![Python](https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-REST_API-000000?style=flat-square&logo=flask)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Model-F7931E?style=flat-square&logo=scikit-learn)
+### 🤖 J.A.R.V.I.S — Autonomous Desktop Assistant
+*An advanced modular assistant integrating natural language understanding and machine vision.*
+- **Architecture:** Engineered with highly isolated OOP modules controlling sub-systems for voice processing, automated OS tasks, and live spatial recognition via OpenCV.
+- **Key Impact:** Showcases clean structural architecture, state management, and highly-responsive execution loops.
+- `Advanced Automation` `Computer Vision` `System Automation` `Python`
 
-🔗 **[→ View Repository](https://github.com/Mvkarthikeya07/Flask_House_Price_Predictor)**
-
-</details>
-
----
-
-<details open>
-<summary><b>🎓 Teacher–Student DBMS</b> — Role-Based Database System</summary>
-
-<br/>
-
-> Secure login-gated DBMS with two distinct user roles: teachers enter and manage marks; students access their own records. Built with a full GUI using Tkinter + SQLite backend.
-
-![Python](https://img.shields.io/badge/Python-DBMS-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-FF6F00?style=flat-square)
-
-🔗 **[→ View Repository](https://github.com/Mvkarthikeya07/Flask_Teacher_Student_DBMS)**
-
-</details>
+### 🎬 Vector-Space Movie Recommendation Engine
+*Content-based recommendation engine leveraging natural language processing.*
+- **Architecture:** Maps textual data into high-dimensional vector spaces. Implements matrix calculations via Cosine Similarity and TF-IDF matrix transformations to parse and score semantic similarities.
+- `Natural Language Processing` `Vector Math` `Scikit-Learn` `Recommendation Systems`
+- 🔗 **Repository:** [View Source Code](https://github.com/Mvkarthikeya07/Movie-Recommendation-System)
 
 ---
 
-<details open>
-<summary><b>🎬 Movie Recommendation System</b> — NLP + Vector Similarity</summary>
+## 📊 Analytics & Performance Metrics
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mvkarthikeya07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvkarthikeya07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175"/>
+</p>
 
-> Content-based recommender using NLP feature engineering and cosine similarity to surface relevant films. Demonstrates applied NLP on real-world datasets with Sklearn pipelines.
-
-![Python](https://img.shields.io/badge/Python-NLP-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Vectors-F7931E?style=flat-square&logo=scikit-learn)
-
-🔗 **[→ View Repository](https://github.com/Mvkarthikeya07/Movie-Recommendation-System)**
-
-</details>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mvkarthikeya07&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## `> stats --all`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mvkarthikeya07&show_icons=true&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8892B0&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvkarthikeya07&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=8892B0&bg_color=0d1117" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mvkarthikeya07&theme=github-dark-blue&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="170"/>
-
-</div>
-
----
-
-## `> activity --graph`
-
-<div align="center">
-
-[![Karthikeya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mvkarthikeya07&theme=react-dark&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true)](https://github.com/Mvkarthikeya07)
-
-</div>
-
----
-
-## `> achievements`
-
-| # | Achievement | Impact |
-|---|-------------|--------|
-| 🔥 | **25+ ML & Flask Projects** shipped | End-to-end, production-ready |
-| 🎥 | **Real-time CV pipelines** with OpenCV | Zero-latency streaming apps |
-| 🤖 | **YOLO-style detection** implemented from scratch | Custom lightweight inference |
-| 📊 | **ML algorithms from scratch** — regression, clustering, NLP | Deep algorithmic understanding |
-| 🌐 | **Full-stack AI apps** — model → API → UI | Complete ownership of the stack |
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  Currently exploring YOLOv8 · Deep Learning · Cloud Deploy  ║
-║  Open to collaborations on AI/CV projects                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mv-karthikeya-b26a2131b)
-
-<sub>⭐ Star a repo if you find it useful — it means a lot and keeps me building.</sub>
-
-</div>
+<p align="center">
+  💡 <em>"Simplicity is the ultimate sophistication in software design."</em> — <strong>Let's collaborate on high-impact AI systems.</strong>
+</p>
