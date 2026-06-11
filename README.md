@@ -1,6 +1,5 @@
-<!-- Banner Element -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=00BFFF&height=220&section=header&text=M%20V%20Karthikeya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=00BFFF&height=220&section=header&text=M%20V%20Karthikeya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%E2%9A%A1%20AI%2FML%20Systems%20Engineer%20%7C%20Computer%20Vision%20Architect%20%E2%9A%A1&descSize=14&descAlignY=65" alt="Elite Tech Banner" />
 </p>
 
 <p align="center">
@@ -58,27 +57,6 @@ Rather than treating machine learning as a "black box," I prioritize memory mana
 
 ### 🏎️ 1. Modular Hybrid Perception Framework for Autonomous Driving Applications
 > **Core Focus:** Overcoming the Python Global Interpreter Lock (GIL) to scale live frame analysis inside web environments.
-
-┌──────────────────────────────────────────────────────────────────┐
-│                     Input Layer (Webcam / Video)                 │
-└─────────────────────────────────┬────────────────────────────────┘
-▼
-┌──────────────────────────────────────────────────────────────────┐
-│                  Decoupled Preprocessing Engine                  │
-└───────────────────┬──────────────────────┬───────────────────────┘
-│                      │
-┌─────────▼──────────┐  ┌────────▼──────────────┐
-│  Lane Detection    │  │   Object Detection     │
-│  (Classical CV)    │  │   (YOLOv8 Deep DL)     │
-│ • BEV & Slid Window│  │ • Road-Class Filtering │
-└─────────┬──────────┘  └────────┬───────────────┘
-│                      │
-└──────────┬───────────┘
-▼
-┌────────────────────────────────────────────┐
-│     Multi-Threaded Fusion & Telemetry      │
-└────────────────────────────────────────────┘
-
 
 * **The Challenge:** Pure deep learning networks lack mathematical interpretability and generate extreme runtime overhead on edge nodes, while standalone classical computer vision algorithms break instantly under rapid exposure fluctuations.
 * **The Architecture:** Engineered a research-grade, production-ready hybrid perception engine. Lane boundary localization utilizes a classical processing pipeline (CLAHE $\to$ ROI $\to$ Bird's Eye View $\to$ Sliding Window $\to$ Polynomial Curve Fitting) running at **28 FPS on GPU**, bound concurrently to a GPU-accelerated **YOLOv8s** architecture. Bounding box evaluations are constrained via custom application-layer class whitelists to drastically save computing cycles.
