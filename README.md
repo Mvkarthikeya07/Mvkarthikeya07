@@ -1,5 +1,6 @@
+<!-- Banner Element -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=00BFFF&height=220&section=header&text=M%20V%20Karthikeya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%E2%9A%A1%20AI%2FML%20Systems%20Engineer%20%7C%20Computer%20Vision%20Architect%20%E2%9A%A1&descSize=14&descAlignY=65" alt="Elite Tech Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=00BFFF&height=220&section=header&text=M%20V%20Karthikeya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Banner" />
 </p>
 
 <p align="center">
